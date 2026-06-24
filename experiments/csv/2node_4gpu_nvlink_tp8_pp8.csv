@@ -1,0 +1,5 @@
+microbatches,tp8_batch_time_ms,pp8_batch_time_ms,tp8_throughput_mb_s,pp8_throughput_mb_s
+1,80.37,331.66,12.44,3.02
+2,160.74,374.16,12.44,5.35
+4,321.47,459.16,12.44,8.71
+8,642.95,629.16,12.44,12.72

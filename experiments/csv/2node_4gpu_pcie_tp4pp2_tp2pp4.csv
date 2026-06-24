@@ -1,0 +1,5 @@
+microbatches,tp4pp2_batch_time_ms,tp2pp4_batch_time_ms,tp4pp2_throughput_mb_s,tp2pp4_throughput_mb_s
+1,207.65,247.91,4.82,4.03
+2,311.64,310.12,6.42,6.45
+4,519.62,434.54,7.70,9.21
+8,935.58,683.38,8.55,11.71

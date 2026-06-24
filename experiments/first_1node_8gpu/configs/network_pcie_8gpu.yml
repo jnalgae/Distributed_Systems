@@ -1,0 +1,6 @@
+# 1 node x 8 GPU, PCIe-like intra-node fabric.
+# The bandwidth value models PCIe 4.0 x16-class effective one-way bandwidth.
+topology: [ Switch ]
+npus_count: [ 8 ]
+bandwidth: [ 32.0 ]  # GB/s per direction
+latency: [ 1500.0 ]  # ns

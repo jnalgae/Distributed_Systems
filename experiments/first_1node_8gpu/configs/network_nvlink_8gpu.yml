@@ -1,0 +1,5 @@
+# 1 node x 8 GPU, NVLink/NVSwitch-like intra-node fabric.
+topology: [ Switch ]
+npus_count: [ 8 ]
+bandwidth: [ 400.0 ]  # GB/s per direction
+latency: [ 936.25 ]   # ns
