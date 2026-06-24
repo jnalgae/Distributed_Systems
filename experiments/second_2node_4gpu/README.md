@@ -6,6 +6,8 @@
 - Intra-node PCIe: 32 GB/s, 1500 ns
 - Inter-node: 25 GB/s, 5000 ns
 
+## Parallelism Layout
+
 Node 0: [0,1,2,3]
 Node 1: [4,5,6,7]
 
