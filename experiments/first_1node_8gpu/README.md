@@ -5,6 +5,8 @@
 - Intra-node NVLink: 400 GB/s, 936.25 ns
 - Intra-node PCIe: 32 GB/s, 1500 ns
 
+## Parallelism Layout
+
 Node 0: [0,1,2,3,4,5,6,7]
 
 TP8:
