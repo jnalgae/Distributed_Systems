@@ -4,6 +4,8 @@
 
 - Inter-node: 25 GB/s, 5000 ns
 
+## Parallelism Layout
+
 Node 0: [0]
 Node 1: [1]
 Node 2: [2]
